@@ -1,0 +1,26 @@
+.botao-menu{
+    color: #ffffff;
+}
+
+.fullscreen{
+    width: 100%;
+}
+
+main {
+    padding-top: 50px;
+}
+
+footer{
+    background-color: #333333;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.tab-pane{
+    padding: 10px 5px;
+}
+
+body{
+    font-size: 18px;
+}
